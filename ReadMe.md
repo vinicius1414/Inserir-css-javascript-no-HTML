@@ -1,7 +1,7 @@
 # Inserir-css-javascript-no-HTML
 Anotações da Aula do Bootcamp HTML Web Developer
 
---------------------------------------------------------------------------------------
+---------------------------------------------
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -16,7 +16,7 @@ Anotações da Aula do Bootcamp HTML Web Developer
     
 </body>
 </html>
---------------------------------------------------------------------------------------
+---------------------------------------------
 
 ## Inserir CSS no HTML:
 Abaixo da TAG <meta></meta>, insira a tag <link rel = "stylesheet" href = "diretório/nomeDoArquivo.css" />
